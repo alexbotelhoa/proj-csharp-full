@@ -10,3 +10,15 @@ D:\safra\Template\Template.Core\obj\Debug\net6.0\Template.Core.dll
 D:\safra\Template\Template.Core\obj\Debug\net6.0\refint\Template.Core.dll
 D:\safra\Template\Template.Core\obj\Debug\net6.0\Template.Core.pdb
 D:\safra\Template\Template.Core\obj\Debug\net6.0\ref\Template.Core.dll
+D:\.NET\proj-csharp-full\Template.Core\bin\Debug\net6.0\Template.Core.deps.json
+D:\.NET\proj-csharp-full\Template.Core\bin\Debug\net6.0\Template.Core.dll
+D:\.NET\proj-csharp-full\Template.Core\bin\Debug\net6.0\Template.Core.pdb
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.csproj.AssemblyReference.cache
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.AssemblyInfoInputs.cache
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.AssemblyInfo.cs
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.csproj.CoreCompileInputs.cache
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.dll
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\refint\Template.Core.dll
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\Template.Core.pdb
+D:\.NET\proj-csharp-full\Template.Core\obj\Debug\net6.0\ref\Template.Core.dll
