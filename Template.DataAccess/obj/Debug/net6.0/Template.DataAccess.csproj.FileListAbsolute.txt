@@ -1,0 +1,15 @@
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.csproj.AssemblyReference.cache
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.AssemblyInfoInputs.cache
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.AssemblyInfo.cs
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.csproj.CoreCompileInputs.cache
+D:\safra\Template\Template.DataAccess\bin\Debug\net6.0\Template.DataAccess.deps.json
+D:\safra\Template\Template.DataAccess\bin\Debug\net6.0\Template.DataAccess.dll
+D:\safra\Template\Template.DataAccess\bin\Debug\net6.0\Template.DataAccess.pdb
+D:\safra\Template\Template.DataAccess\bin\Debug\net6.0\Template.Core.dll
+D:\safra\Template\Template.DataAccess\bin\Debug\net6.0\Template.Core.pdb
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.csproj.CopyComplete
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.dll
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\refint\Template.DataAccess.dll
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\Template.DataAccess.pdb
+D:\safra\Template\Template.DataAccess\obj\Debug\net6.0\ref\Template.DataAccess.dll
