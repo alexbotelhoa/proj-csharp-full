@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Net;
 using System.Text;
 using System.Net.Http;
 using Newtonsoft.Json;
@@ -74,7 +75,7 @@ namespace Template.Integration.Integrations
                         break;
                 }
 
-                if (!response.IsSuccessStatusCode && (int)response.StatusCode != 204)
+                if (!response.IsSuccessStatusCode && response.StatusCode != HttpStatusCode.NoContent)
                 {
                     result = response.Content.ReadAsStringAsync();
                     dynamic errorMessage = JsonConvert.DeserializeAnonymousType(Convert.ToString(result), new { message = "Error" });
@@ -120,8 +121,6 @@ namespace Template.Integration.Integrations
                     Email = "usuario3@example.com"
                 }
             };
-
-            //var users = new List<dynamic>();
 
             return Task.FromResult<IEnumerable<dynamic>>(users);
         }
