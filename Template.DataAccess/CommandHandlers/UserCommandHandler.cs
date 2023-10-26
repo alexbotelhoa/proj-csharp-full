@@ -72,7 +72,7 @@ namespace Template.DataAccess.CommandHandlers
             if (result.Result != null)
                 result.SetHttpStatusToOk();
             else
-                result.SetHttpStatusToUnprocesssableEntity();
+                result.SetHttpStatusToUnprocessableEntity();
 
             return result;
         }

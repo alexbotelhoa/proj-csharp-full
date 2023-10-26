@@ -1,3 +1,7 @@
+#visual_code
+*.vs
+*.vscode
+
 # Prerequisites
 *.d
 

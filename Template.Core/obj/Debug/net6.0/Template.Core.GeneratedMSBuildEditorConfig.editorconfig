@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Template.Core
-build_property.ProjectDir = d:\.NET\proj-csharp-full\Template.Core\
+build_property.ProjectDir = D:\.NET\proj-csharp-full\Template.Core\

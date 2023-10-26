@@ -72,7 +72,7 @@ namespace Template.Core.Helpers
             return Set(HttpStatusCode.NoContent, message);
         }
 
-        public ApplicationResult<TResultMessage> SetHttpStatusToUnprocesssableEntity(string message = "Chamada não processada!")
+        public ApplicationResult<TResultMessage> SetHttpStatusToUnprocessableEntity(string message = "Chamada não processada!")
         {
             return Set(HttpStatusCode.UnprocessableEntity, message);
         }
